@@ -58,7 +58,7 @@ The WAFER-IMX8MP BSP includes Linux kernel up to 5.10, Yocto/Ubuntu/Android SDK 
 
 #### Price and Availability
 WAFER-IMX8MP is now available through direct sales (www.mayqueentech.com).
-WAFER-IMX8MP is offered in a variety of configurations starting from $350 for 1pc order.
+WAFER-IMX8MP is offered in a variety of configurations starting from $269 for 1pc order.
 Detailed ordering and pricing information is available on sales contact window.
 <br>
 
