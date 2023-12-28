@@ -14,9 +14,9 @@ The WAFER-IMX8MP BSP includes Linux kernel up to 5.10, Yocto/Ubuntu/Android SDK 
 <br>
 
 #### Overview
-|                         Single Board Computer                         | Description                                                  |                       BSP support                       |                       Download images                        |
+|                         Single Board Computer                         | Description                                                  |                       BSP support                       |                       Instruction                        |
 | :----------------------------------------------------------: | :----------------------------------------------------------- | :---------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="https://www.mayqueentech.com/images/wafer-imx8mp-1.png" width="200"/> | **WAFER-IMX8MP** <br />     3.5" Short Size Board with NXP i.MX 8M Plus <br/> [Datasheet](https://www.dropbox.com/scl/fi/zvyyd39afkxnryjstqaln/wafer-imx8mp.pdf?rlkey=1y12j7b8id81f59bvtsn6bcbw&dl=0) | Yocto Kirkstone <br /> Ubuntu 22.04 <br /> Android 12 <br /> Android 13 | [Android 12 - AP6275S](https://www.dropbox.com/scl/fi/ndaqiucpkildh287czbb9/B643-12-R185_20230323.zip?rlkey=oes7mwq3k9m3utysdcy2bkynz&dl=0) <br />  [Android 12 - RTL8822CS](https://www.dropbox.com/scl/fi/u76tijzykb1cwjvsw968u/B643-12-R205_realtek-wifi5_20230516.zip?rlkey=p0i7v75exlxcy2or33o7enhq5&dl=0) <br />  [Android 12 - EM7455](https://www.dropbox.com/scl/fi/h120mvixfnpa930gqvva0/B643-12-R186_sierra-lte_20230323.zip?rlkey=mgrrp20uhtb7y5jn9z0287964&dl=0) <br /> |
+| <img src="https://www.mayqueentech.com/images/wafer-imx8mp-1.png" width="200"/> | **WAFER-IMX8MP** <br />     3.5" Short Size Board with NXP i.MX 8M Plus <br/> [Datasheet](https://www.dropbox.com/scl/fi/zvyyd39afkxnryjstqaln/wafer-imx8mp.pdf?rlkey=1y12j7b8id81f59bvtsn6bcbw&dl=0) | Yocto LTS <br /> Ubuntu LTS <br /> Android | [PINOUT Definition](https://github.com/MayQueenTechCommunity/WAFER-IMX8MP/wiki/WAFER%E2%80%90IMX8MP-PINOUT) <br /> Yocto Zone <br /> Ubuntu Zone <br /> Android Zone <br /> |
 
 
 |                         Specifications                         |                                                   |
@@ -73,3 +73,4 @@ MayQueen Technologies headquarters are located in Sheffield, U.K..
 International Sales: Grace To
 <br> 
 sales@mayqueentech.com 
+
