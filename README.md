@@ -1,4 +1,4 @@
-<img src="https://www.mayqueentech.com/images/nutsboard.png" width="100" align="right">
+<img src="https://www.mayqueentech.com/img/logo.png" width="100" align="right">
 <br>
 
 ### MayQueen introduces WAFER-IMX8MP
@@ -16,7 +16,7 @@ The WAFER-IMX8MP BSP includes Linux kernel up to 5.10, Yocto/Ubuntu/Android SDK 
 #### Overview
 |                         Single Board Computer                         | Description                                                  |                       BSP support                       |                       Instruction                        |
 | :----------------------------------------------------------: | :----------------------------------------------------------- | :---------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="https://www.mayqueentech.com/images/wafer-imx8mp-1.png" width="200"/> | **WAFER-IMX8MP** <br />     3.5" Short Size Board with NXP i.MX 8M Plus <br/> [Datasheet](https://www.dropbox.com/scl/fi/zvyyd39afkxnryjstqaln/wafer-imx8mp.pdf?rlkey=1y12j7b8id81f59bvtsn6bcbw&dl=0) | Yocto LTS <br /> Ubuntu LTS <br /> Android | [PINOUT Definition](https://github.com/MayQueenTechCommunity/WAFER-IMX8MP/wiki/WAFER%E2%80%90IMX8MP-PINOUT) <br /> [Yocto Zone](https://github.com/MayQueenTechCommunity/WAFER-IMX8MP/wiki/Yocto-Zone) <br /> Ubuntu Zone <br /> [Android Zone](https://github.com/MayQueenTechCommunity/WAFER-IMX8MP/wiki/Android-Zone) <br /> |
+| <img src="https://mayqueentech.com/img/wafer-imx8mp-1.png" width="200"/> | **WAFER-IMX8MP** <br />     3.5" Short Size Board with NXP i.MX 8M Plus <br/> [Datasheet](https://www.dropbox.com/scl/fi/zvyyd39afkxnryjstqaln/wafer-imx8mp.pdf?rlkey=1y12j7b8id81f59bvtsn6bcbw&dl=0) | Yocto LTS <br /> Ubuntu LTS <br /> Android | [PINOUT Definition](https://github.com/MayQueenTechCommunity/WAFER-IMX8MP/wiki/WAFER%E2%80%90IMX8MP-PINOUT) <br /> [Yocto Zone](https://github.com/MayQueenTechCommunity/WAFER-IMX8MP/wiki/Yocto-Zone) <br /> Ubuntu Zone <br /> [Android Zone](https://github.com/MayQueenTechCommunity/WAFER-IMX8MP/wiki/Android-Zone) <br /> |
 
 
 |                         Specifications                         |                                                   |
