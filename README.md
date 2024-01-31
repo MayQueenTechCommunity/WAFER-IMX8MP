@@ -46,8 +46,7 @@ The WAFER-IMX8MP BSP includes Linux kernel up to 5.10, Yocto/Ubuntu/Android SDK 
 | :----------------------------------------------------------: | :----------------------------------------------------------- |
 | MIPI-DSI panel | TQ101AJ02 10.1" touch panel with 1280x800 resolution |
 | MIPI-CSI camera | Omnivision OV5640 |
-| LTE module | Sierra Wireless EM7455 <br /> Fibocom NL668-EAU|
-| 5GNR module | Fibocom FM350-GL|
+| LTE module | Sierra Wireless EM7455|
 | WiFi/Bluetooth module | Broadcom AP6275SDSR WiFi6/BT5 Pre-certified <br /> Broadcom AP6275S WiFi6/BT5 <br /> Realtek RTL8822CS WiFi5/BT5 |
 <br>
 
